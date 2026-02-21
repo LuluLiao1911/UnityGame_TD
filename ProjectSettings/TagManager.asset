@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Student
+  - Bullet
+  - Assistant
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Shop
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 657437755
+    locked: 0
+  - name: GamePlay
+    uniqueID: 2892636881
+    locked: 0
+  - name: Shop
+    uniqueID: 4103229175
+    locked: 0
+  - name: liver
+    uniqueID: 360231079
+    locked: 0
+  - name: pause
+    uniqueID: 1963250665
+    locked: 0
+  m_RenderingLayers:
+  - Default

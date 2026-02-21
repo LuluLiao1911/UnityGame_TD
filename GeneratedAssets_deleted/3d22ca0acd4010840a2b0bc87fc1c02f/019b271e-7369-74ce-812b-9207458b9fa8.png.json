@@ -1,0 +1,20 @@
+{
+    "asset": "3d22ca0acd4010840a2b0bc87fc1c02f",
+    "fileName": "019b271e-7369-74ce-812b-9207458b9fa8.png",
+    "prompt": "remove the desk, and let the scene look a bit darker, it's too bright right now. Refer to the asset i proved before maybe add some windows, at evening time",
+    "negativePrompt": "",
+    "model": "5b5b2af1-6ea4-4266-b087-cc9f3bf4f450",
+    "modelName": "Flux.1 Dev",
+    "customSeed": -1,
+    "w3CTraceId": "a8bdb222c6fac63e801b313120d57d17",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

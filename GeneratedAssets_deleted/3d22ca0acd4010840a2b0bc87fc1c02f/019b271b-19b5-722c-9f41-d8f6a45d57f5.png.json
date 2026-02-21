@@ -1,0 +1,20 @@
+{
+    "asset": "3d22ca0acd4010840a2b0bc87fc1c02f",
+    "fileName": "019b271b-19b5-722c-9f41-d8f6a45d57f5.png",
+    "prompt": "\nThe asset  Classroom_0_evening  is a 2D texture located at  Assets/2D Anime - School 00/Art/Classroom_0_evening.png. Based on current asset. Generate a 2D mobile game background, classroom theme, Plants vs. Zombies style perspective. A wide wooden floor stretches from left to right. On the far left is a classroom blackboard. The floor is the main gameplay area, marked with 5 distinct horizontal rows. School furniture is cluttered only at the top and bottom edges of the screen, leaving the middle wide open. Clean vector lines, vibrant colors, game asset. No students, no zombies, empty scene.",
+    "negativePrompt": "",
+    "model": "5b5b2af1-6ea4-4266-b087-cc9f3bf4f450",
+    "modelName": "Flux.1 Dev",
+    "customSeed": -1,
+    "w3CTraceId": "4e32563c6c2d3702e010de8e40bdb98b",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

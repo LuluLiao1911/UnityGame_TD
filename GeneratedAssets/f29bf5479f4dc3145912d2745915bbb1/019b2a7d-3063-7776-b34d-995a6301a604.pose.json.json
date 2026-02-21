@@ -1,0 +1,11 @@
+{
+    "asset": "f29bf5479f4dc3145912d2745915bbb1",
+    "fileName": "019b2a7d-3063-7776-b34d-995a6301a604.pose.json",
+    "prompt": "use Project/Prefab/testMonster create a walking animation",
+    "negativePrompt": "",
+    "model": "9e46c009-67d8-4254-a3a0-32e3168247ee",
+    "modelName": "Text to Motion",
+    "customSeed": 1852786445,
+    "w3CTraceId": "75ade7f247c9111a1071762dae85ed5f",
+    "isTrimmed": false
+}
