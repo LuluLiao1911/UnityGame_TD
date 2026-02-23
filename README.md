@@ -29,6 +29,7 @@ In this game, "Fresh Livers" serve as the primary currency for deploying charact
 
 
 -**Generation Methods**: Fresh Livers are acquired through two main channels
+# Need GIF
 
 
    (a) Deploying Sleeping Students allows players to periodically generate extra Livers.
@@ -41,9 +42,9 @@ In this game, "Fresh Livers" serve as the primary currency for deploying charact
 Players must defend their Diploma (located at the far left) by deploying units across four active lanes (Lanes 1, 3, 5, and 7).
    <img width="967" height="546" alt="螢幕擷取畫面 2025-12-29 214525" src="https://github.com/user-attachments/assets/444b74a5-fe96-4415-acae-8c1df399e594" />
 
--**Defensive Units:**
+- **Defensive Units:**
 
-Each student type has a specific cost in Livers(on the label)
+Each defender has a specific cost in Livers(on the label)
 <img width="542" height="177" alt="螢幕擷取畫面 2026-02-23 142133" src="https://github.com/user-attachments/assets/4b7ed2b2-7ec2-46e0-80d6-e38654e25460" />
    (a) Normal Student: Each costs 3 Livers, an attacking unit that fires a single projectile at a time.
 
@@ -56,8 +57,32 @@ Each student type has a specific cost in Livers(on the label)
    
    (d) AI TA: Each costs 4 Livers, a specialized support unit that freezes the monster it first encountered once in its lane for 3 seconds.
 
--**Deployment Controls**
+- **Deployment Controls**
 
 Left-click a student in the shop to select, then click a lane to deploy. Right-clicking before placement cancels the purchase.
-(NEED　GIF)
+# (NEED　GIF)
+
+### **3.Villain Units:**
+   <img width="598" height="161" alt="螢幕擷取畫面 2026-02-24 001730" src="https://github.com/user-attachments/assets/c2ab36e5-c422-4de5-88fc-7b36a6ffc4ed" />
+
+   
+   (a) Exam Monster: 
+   - Spawn Rate: 15%
+   - HP: 5
+   - Description: A high-HP tank that is difficult to defeat, representing the heavy pressure of midterm and final exams.
+
+     
+   (b) Deadline Monster:
+   - Spawn Rate: 35%
+   - HP: 3
+   - Description: Features significantly higher movement speed.
+
+
+   (c) Assignment Monster:
+   - Spawn Rate: 50%
+   - HP: 3
+   - Description: The basic unit of academic stress, representing standard assignments.
+
+
+
 
