@@ -46,10 +46,11 @@ Players must defend their Diploma (located at the far left) by deploying units a
 
 Each defender has a specific cost in Livers(on the label)
 <img width="542" height="177" alt="螢幕擷取畫面 2026-02-23 142133" src="https://github.com/user-attachments/assets/4b7ed2b2-7ec2-46e0-80d6-e38654e25460" />
+
    (a) Normal Student: Each costs 3 Livers, an attacking unit that fires a single projectile at a time.
 
    
-   (b) Straight-A Student: Each costs 5 Livers, a top attacking unit that shoots double projectiles per interval.
+   (b) Straight-A Student: Each costs 5 Livers, an attacking unit that shoots double projectiles per interval.
 
    
    (c) Sleeping Student: Each costs 2 Livers, with the function of generating fresh Livers.
@@ -62,7 +63,7 @@ Each defender has a specific cost in Livers(on the label)
 Left-click a student in the shop to select, then click a lane to deploy. Right-clicking before placement cancels the purchase.
 # (NEED　GIF)
 
-### **3.Villain Units:**
+### **3.Villain Units**
    <img width="598" height="161" alt="螢幕擷取畫面 2026-02-24 001730" src="https://github.com/user-attachments/assets/c2ab36e5-c422-4de5-88fc-7b36a6ffc4ed" />
 
    
@@ -82,6 +83,23 @@ Left-click a student in the shop to select, then click a lane to deploy. Right-c
    - Spawn Rate: 50%
    - HP: 3
    - Description: The basic unit of academic stress, representing standard assignments.
+
+
+### **4.Dynamic difficulty**
+The game lasts 90 seconds, but the intensity is dynamic.
+
+
+   - The Surge: At specific time stamps, players must endure the Midterm and Final Exam waves, where the spawn rate of Academic Monsters increases drastically.
+   - The TimeBar: A visual progress tracker showing the progress of gameplay.
+
+
+### **5.Risk & Reward: The Lucky Spin**
+Players can spend 8 Livers for a gamble.
+<img width="1920" height="1080" alt="updatedTurntable" src="https://github.com/user-attachments/assets/d9108590-90a7-431e-8ad4-dcec909f5571" />
+
+   - Potential Buff: Doubling your current Livers, freezing all the monsters, and clearing all active monsters.
+
+   - The Risk: The "Try Again" result, where your 8 Livers are spent with zero benefit
 
 
 
