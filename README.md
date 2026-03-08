@@ -18,6 +18,7 @@ Since my team members and I are all fans of the classic *Plants vs. Zombies*, we
 framework as our creative foundation, reimagining it through the lens of student life.
 
 
+
 ## **Gameplay Mechanics**
 
 
@@ -29,7 +30,6 @@ In this game, "Fresh Livers" serve as the primary currency for deploying charact
 
 
 -**Generation Methods**: Fresh Livers are acquired through two main channels
-# Need GIF
 
 
    (a) Deploying Sleeping Students allows players to periodically generate extra Livers.
@@ -61,7 +61,6 @@ Each defender has a specific cost in Livers(on the label)
 - **Deployment Controls**
 
 Left-click a student in the shop to select, then click a lane to deploy. Right-clicking before placement cancels the purchase.
-# (NEED　GIF)
 
 ### **3.Villain Units**
    <img width="598" height="161" alt="螢幕擷取畫面 2026-02-24 001730" src="https://github.com/user-attachments/assets/c2ab36e5-c422-4de5-88fc-7b36a6ffc4ed" />
